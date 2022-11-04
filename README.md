@@ -1,6 +1,11 @@
 # Advance_CSS_Portfolio
  02 Advanced CSS: Portfolio
 
+
+##Screenshot
+
+![screenShot] (./screenshot.png)
+
 ##Description- Build a web applicaiton from scratch and use HTML and advance CSS style.  I will build a portfolio page for my furture employeer.   I will continue to add to this portfolio for the rest of the class. This portfolio will highlights my strongest work.
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -15,8 +20,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
-
-##Screenshot()
 
 ## Credits
 
