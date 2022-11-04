@@ -1,0 +1,131 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: teal;
+}
+
+figure img {
+    margin: 1px;
+    width: 100%;
+    padding: 1px;
+    height: 396px;
+    border: 2px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: right;
+    margin: 0auto;
+    padding: 0px;
+    display: block;
+}
+
+
+li a {
+    list-style-type: none;
+    border-radius: 1%;
+    padding: 0px;
+    
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    font-size: small;
+    display: block;
+}
+
+.header h1 {
+    text-align: center;
+    display: block;
+}
+
+.color {
+    background-color: white;
+}
+
+#About-Me h2 {
+    text-align: center;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 1px;
+    padding: 5px;
+}
+
+.profilepic {
+    width: 25%;
+    height: 370x;
+    padding: 1px;
+    border: 2px;
+
+}
+
+article #work h2 {
+    align-items: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.recent-work {
+    display: block;
+    width: 150px;
+    height: 70px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.resume {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    text-decoration: none;
+}
+
+#work img {
+    display: square;
+    width: 90px;
+    height: 50px;
+    text-decoration: none;
+}
+
+#project img {
+    display: block;
+    width: 150px;
+    height: 73px;
+    text-decoration: none;
+}
+
+.contact-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    text-decoration: none;
+}
+
+.contact-me ul li {
+    display: block;
+    text-decoration: none;
+}
+
+#contactLinks {
+    list-style-type: none;
+    text-align: left;
+    margin: 0auto;
+    padding: 0px;
+    display: block;
+    overflow: hidden;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
