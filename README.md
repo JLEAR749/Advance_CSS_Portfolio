@@ -1,10 +1,9 @@
 # Advance_CSS_Portfolio
  02 Advanced CSS: Portfolio
 
-
 ##Screenshot
 
-![screenShot] (./screenshot.png)
+![screenShot] (screenshot.png)
 
 ##Description- Build a web applicaiton from scratch and use HTML and advance CSS style.  I will build a portfolio page for my furture employeer.   I will continue to add to this portfolio for the rest of the class. This portfolio will highlights my strongest work.
 
