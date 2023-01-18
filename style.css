@@ -20,12 +20,11 @@ ul {
     display: block;
 }
 
-
 li a {
     list-style-type: none;
     border-radius: 1%;
     padding: 0px;
-    
+
 }
 
 .header {
